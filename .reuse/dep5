@@ -1,0 +1,22 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: .gitignore
+Copyright: 2023 Gustav Grusell
+License: CC0-1.0
+
+Files: README.md
+Copyright: 2023 Gustav Grusell
+License: CC0-1.0
+
+Files: icons/collapse-full.svg icons/collapse.svg icons/expand-full.svg icons/expand.svg
+Copyright: 2023 Gustav Grusell
+License: MIT
+
+Files: icons/pause-circle-full.svg icons/pause-circle.svg icons/play-circle-full.svg icons/play-circle.svg icons/play-skip-back-circle-full.svg icons/play-skip-back-circle.svg icons/play-skip-forward-circle-full.svg icons/play-skip-forward-circle.svg
+Copyright: 2015 - present Ionic
+License: MIT
+
+Files: icons/zoom-in-full.svg icons/zoom-in.svg icons/zoom-out-full.svg icons/zoom-out.svg icons/zoom-reset-full.svg icons/zoom-reset.svg fonts/vivict-icons.sfd fonts/vivict-icons.ttf
+Copyright: 2023 Gustav Grusell
+           2015 - present Ionic
+License: MIT
