@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/vivictorg/vivict-icons)](https://api.reuse.software/info/github.com/vivictorg/vivict-icons)
+
 # Vivict-Icons
 
 Icon library and font used by [vivictpp](https://github.com/vivictorg/vivictpp)
